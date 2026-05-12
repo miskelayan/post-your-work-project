@@ -1,3 +1,4 @@
+"""Bikeshare data analysis script for the Udacity Git project."""
 
 import time
 import pandas as pd 
