@@ -1,27 +1,27 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+# Bikeshare Project
 
+## Project Overview
+This project is about exploring bikeshare data using Python. The program asks the user to choose filters such as city, month, and day, then it shows different statistics about the bike trips.
 
-# Project Title
+The statistics include popular travel times, common stations, trip duration, and user information.
 
-Describe what your project is about and what it does
+## Information about how to use the project
 
-## Information about how to use your project
+### Requirements
+To run this project, you need:
+- Python 3
+- pandas
 
-This could include:
+### Files included
+- `bikeshare.py`: the Python file that runs the project
+- `README.md`: information about the project
+- `.gitignore`: used to ignore CSV data files
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+### How to run
+1. Open the project folder.
+2. Make sure the data file is in the same folder as `bikeshare.py`.
+3. Open the terminal.
+4. Run the file using:
 
-## Contribution guidelines
-
-If you welcome contributions, provide guidelines on how others can contribute to your project.
-
-## Credits
-
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-## Date created
-
-Include the date you created this project and README file.
+```bash
+python bikeshare.py
