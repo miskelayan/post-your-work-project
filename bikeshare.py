@@ -174,6 +174,7 @@ def load_data(city, month, day):
 
     return df
 
+# Display raw data in groups of five rows.
 def display_raw_data(df):
     start_loc = 0
 
