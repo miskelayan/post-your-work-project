@@ -1,4 +1,5 @@
 # Bikeshare Project
+# Bikeshare Project
 
 ## Project Overview
 This project is about exploring bikeshare data using Python. The program asks the user to choose filters such as city, month, and day, then it shows different statistics about the bike trips.
@@ -16,6 +17,9 @@ To run this project, you need:
 - `bikeshare.py`: the Python file that runs the project
 - `README.md`: information about the project
 - `.gitignore`: used to ignore CSV data files
+
+## Notes
+CSV files are ignored because data files should not be uploaded to GitHub.
 
 ### How to run
 1. Open the project folder.
