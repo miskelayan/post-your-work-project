@@ -1,6 +1,4 @@
 # Bikeshare Project
-# Bikeshare Project
-
 ## Project Overview
 This project is about exploring bikeshare data using Python. The program asks the user to choose filters such as city, month, and day, then it shows different statistics about the bike trips.
 
