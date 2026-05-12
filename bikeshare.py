@@ -24,7 +24,8 @@ def time_stats(data):
 
     # display the most common day of week
     top_day = data['day_of_week'].value_counts().idxmax()
-    print('common Day:   ', top_day)
+    print('Common Day:   ', top_day)
+
 
     # display the most common start hour
     peak_hour = data['hour'].value_counts().idxmax()
