@@ -119,7 +119,7 @@ def user_data(data):
 
 def get_filters():
 
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print("Hello! Let's explore bikeshare data!")
     valid_cities = ['chicago', 'new york city', 'washington']
     valid_months = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
     valid_days = ['all', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
